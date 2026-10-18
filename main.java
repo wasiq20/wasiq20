@@ -107,7 +107,7 @@ class StudentManager {
 }
 
 // Entry point with interactive CLI
-public class Main {
+public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StudentManager manager = new StudentManager();
